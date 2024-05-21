@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BudkinAndrew
-- 👀 I’m interested in highly effective computations, applications of macjine learning to CAD.
+- 👀 I’m interested in highly effective computations, applications of machine learning to CAD.
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
